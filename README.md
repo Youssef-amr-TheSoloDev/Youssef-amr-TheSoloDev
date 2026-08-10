@@ -171,7 +171,7 @@ If it's hard and it needs to exist, I build it.
 ## 📬 Let’s Connect
 
 - 🧠 [LinkedIn](https://www.linkedin.com/in/youssef-amr-2ba9962b5/)
-- ✉️ [Email](mailto:amry14003@gmail.com)
+- ✉️ [Email](mailto:youssefamr.thesolodev@gmail.com)
 - 🎮 [Portfolio](https://youssefamr-thesolodev.web.app)
 
 ---
