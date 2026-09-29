@@ -101,7 +101,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### 🏥 One More Day — _Narrative · GMTK 2025 Top 7%_
+### 🏥 One More Day — _Narrative · GMTK 2025_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
 <img src="./compressed/one-more-day.png" width="1200">
 </div>
@@ -114,7 +114,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment_
+### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment GMTK 2026_
 
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
 <img src="./compressed/10-second-hero.gif" width="1200">
