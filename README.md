@@ -101,7 +101,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### 🏥 One More Day — _Narrative · GMTK 2025 Top 7%_
+### 🏥 One More Day — _Narrative · GMTK 2025_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
 <img src="./compressed/one-more-day.png" width="1200">
 </div>
@@ -114,7 +114,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment_
+### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment in GMTK 2026_
 
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
 <img src="./compressed/10-second-hero.gif" width="1200">
@@ -130,6 +130,8 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 <!--
  Developer note: i will add them later in development
+
+
  ### ⚡ ENERGY — _City Builder · My Childhood Dream Game_
 
 ![ENERGY](./assets/energy.gif)
@@ -197,8 +199,4 @@ $ ping youssef
 ```
 > exit
 *connection closed by user*
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 00598a55acf905cd9e2adb091acf4c31fcf7520b
