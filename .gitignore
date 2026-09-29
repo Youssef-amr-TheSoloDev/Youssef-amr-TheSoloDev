@@ -1,0 +1,4 @@
+/assets/*
+!assets/.gitkeep
+node_modules
+compress.js

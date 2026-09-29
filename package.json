@@ -1,0 +1,24 @@
+{
+  "name": "youssef-amr-thesolodev",
+  "version": "1.0.0",
+  "description": "![banner](./assets/banner.gif)\r <div style=\"display:flex; gap: 1em; justify-content:center; align-items:center;text-align:center; font-size:1.2em;font-family:monospace;\">\r <a href=\"https://youssefamr-thesolodev.web.app\" style=\"color:#ff8800;\">> See my Portfolio <</a>\r </div>",
+  "main": "compress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssef-amr-TheSoloDev/Youssef-amr-TheSoloDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Youssef-amr-TheSoloDev/Youssef-amr-TheSoloDev/issues"
+  },
+  "homepage": "https://github.com/Youssef-amr-TheSoloDev/Youssef-amr-TheSoloDev#readme",
+  "dependencies": {
+    "gifsicle": "^5.3.0"
+  }
+}
