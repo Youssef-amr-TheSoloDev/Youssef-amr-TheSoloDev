@@ -1,5 +1,5 @@
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/banner.gif" width="600">
+<img src="./compressed/banner.gif" width="1200">
 </div>
 <div style="display:flex; gap: 1em; justify-content:center; align-items:center;text-align:center; font-size:1.2em;font-family:monospace;">
 <a href="https://youssefamr-thesolodev.web.app" style="color:#ff8800;">> See my Portfolio <</a>
@@ -47,15 +47,15 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ## `>_ tech_stack`
 
-| Layer                  | Tools                                                           |
-| ---------------------- | --------------------------------------------------------------- |
-| 🎮 Game Engines        | Unity (C#), Godot                                               |
-| 💻 Languages           | C#, C, C++, Python, R, Java, JavaScript, TypeScript, Assembly, HLSL  |
-| 🧠 Compilers & Systems | Custom language (Y#), 8 compilers/interpreters, Unix shell in C |
-| 📦 Frameworks          | Angular, Flask, Django, Node.js, Flutter                        |
-| 📊 Data & ML           | Pandas, NumPy, Scikit-Learn, XGBoost, Streamlit                 |
-| ☁️ Cloud / DevOps      | AWS (EC2, S3, Lambda), Docker, GitHub Actions, Firebase                   |
-| 🎨 Creative Tools      | Unity, Pixelorama, LMMS, Krita, Blender               |
+| Layer                 | Tools                                                               |
+| --------------------- | ------------------------------------------------------------------- |
+| 🎮 Game Engines        | Unity (C#), Godot                                                   |
+| 💻 Languages           | C#, C, C++, Python, R, Java, JavaScript, TypeScript, Assembly, HLSL |
+| 🧠 Compilers & Systems | Custom language (Y#), 8 compilers/interpreters, Unix shell in C     |
+| 📦 Frameworks          | Angular, Flask, Django, Node.js, Flutter                            |
+| 📊 Data & ML           | Pandas, NumPy, Scikit-Learn, XGBoost, Streamlit                     |
+| ☁️ Cloud / DevOps      | AWS (EC2, S3, Lambda), Docker, GitHub Actions, Firebase             |
+| 🎨 Creative Tools      | Unity, Pixelorama, LMMS, Krita, Blender                             |
 
 
 <details>
@@ -77,7 +77,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ### 🦠 INFECTED — _Roguelite Tower Defense_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/infected.gif" width="600">
+<img src="./compressed/infected.gif" width="1200">
 </div>
 > Your computer is dying. Build firewalls. Clean the infection. Prestige. Repeat.
 
@@ -91,7 +91,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ### 📡 OPERATOR — _Radar Simulation_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/operator-radar.gif" width="600">
+<img src="./compressed/operator-radar.gif" width="1200">
 </div>
 > You are a radar operator. Guide planes. Avoid enemies. Survive storms. Upgrade your station.
 
@@ -103,7 +103,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ### 🏥 One More Day — _Narrative · GMTK 2025 Top 7%_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/one-more-day.png" width="600">
+<img src="./compressed/one-more-day.png" width="1200">
 </div>
 > A doctor trapped in a hospital timeloop, trying to save loved ones.
 
@@ -117,7 +117,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 ### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment_
 
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/10-second-hero.gif" width="600">
+<img src="./compressed/10-second-hero.gif" width="1200">
 </div>
 > Dash. Kill. Add time. Defend the door. Survive the countdown.
 
