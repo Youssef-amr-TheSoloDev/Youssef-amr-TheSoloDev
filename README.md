@@ -1,5 +1,5 @@
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/banner.gif" width="1200">
+<img src="./compressed/banner.gif" width="600">
 </div>
 <div style="display:flex; gap: 1em; justify-content:center; align-items:center;text-align:center; font-size:1.2em;font-family:monospace;">
 <a href="https://youssefamr-thesolodev.web.app" style="color:#ff8800;">> See my Portfolio <</a>
@@ -77,7 +77,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ### 🦠 INFECTED — _Roguelite Tower Defense_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/infected.gif" width="1200">
+<img src="./compressed/infected.gif" width="600">
 </div>
 > Your computer is dying. Build firewalls. Clean the infection. Prestige. Repeat.
 
@@ -91,7 +91,7 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ### 📡 OPERATOR — _Radar Simulation_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/operator-radar.gif" width="1200">
+<img src="./compressed/operator-radar.gif" width="600">
 </div>
 > You are a radar operator. Guide planes. Avoid enemies. Survive storms. Upgrade your station.
 
@@ -101,9 +101,9 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### 🏥 One More Day — _Narrative · GMTK 2025_
+### 🏥 One More Day — _Narrative · GMTK 2025 Top 7%_
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/one-more-day.png" width="1200">
+<img src="./compressed/one-more-day.png" width="600">
 </div>
 > A doctor trapped in a hospital timeloop, trying to save loved ones.
 
@@ -114,10 +114,10 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 ---
 
-### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment in GMTK 2026_
+### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment_
 
 <div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
-<img src="./compressed/10-second-hero.gif" width="1200">
+<img src="./compressed/10-second-hero.gif" width="600">
 </div>
 > Dash. Kill. Add time. Defend the door. Survive the countdown.
 
@@ -130,8 +130,6 @@ I believe in **clear credit**, **honest work**, and **finishing what you start**
 
 <!--
  Developer note: i will add them later in development
-
-
  ### ⚡ ENERGY — _City Builder · My Childhood Dream Game_
 
 ![ENERGY](./assets/energy.gif)
