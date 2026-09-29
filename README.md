@@ -1,89 +1,84 @@
-# 🚀 Youssef Amr (he/him) – Game Developer | Systems Builder | Data Scientist
+<div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
+<img src="./compressed/banner.gif" width="600">
+</div>
+<div style="display:flex; gap: 1em; justify-content:center; align-items:center;text-align:center; font-size:1.2em;font-family:monospace;">
+<a href="https://youssefamr-thesolodev.web.app" style="color:#ff8800;">> See my Portfolio <</a>
+</div>
 
-Welcome. I'm **Youssef Amr** — a builder who writes games, compilers, physics simulations, and medical AI. I've been coding since I was 11. I don't stop.
+# `>_ whoami`
 
-I'm a data science major at Alexandria University, but my real education came from 10 years of shipping: 10+ games, 8 compilers, and a ministry‑funded medical AI project (DrWisee).
+# Youssef Amr
 
-If it's hard and it needs to exist, I build it.
+**[ Game Developer · Systems Builder · Data Scientist · Frontend Developer ]**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+```bash
+$ cat ./profile.json
+{
+  "name": "Youssef Amr",
+  "handle": "TheSoloDev",
+  "role": "Game Developer | Systems Builder | Data Scientist",
+  "location": "Alexandria, Egypt",
+  "education": "Data Science @ Alexandria University",
+  "experience": "10+ years shipping",
+  "shipped": "10+ games · 8 compilers",
+  "status": "building"
+}
+```
 
 ---
 
-## 🧰 Tech Stack
+## `>_ about`
 
-| Category            | Tools & Tech                                           |
-|---------------------|--------------------------------------------------------|
-| 🎮 Game Engines      | Unity (C#), Godot                                      |
-| 💻 Programming       | C#, C, C++, Python, R, Java, JavaScript, TypeScript, Assembly |
+I've been coding since I was 11. Ten years later, I don't stop.
+
+I write **games**, **compilers**, and **physics simulations**. I've shipped over a dozen games, built eight compilers and interpreters, and designed my own programming language.
+
+I'm a data science major at Alexandria University — but my real education came from shipping. If it's hard and it needs to exist, I build it.
+
+I believe in **clear credit**, **honest work**, and **finishing what you start**. I've learned the hard way that agreements, ownership, and attribution matter as much as the code itself. That lesson shaped how I build teams, tools, and studios today.
+
+---
+
+## `>_ tech_stack`
+
+| Layer                  | Tools                                                           |
+| ---------------------- | --------------------------------------------------------------- |
+| 🎮 Game Engines        | Unity (C#), Godot                                               |
+| 💻 Languages           | C#, C, C++, Python, R, Java, JavaScript, TypeScript, Assembly, HLSL  |
 | 🧠 Compilers & Systems | Custom language (Y#), 8 compilers/interpreters, Unix shell in C |
-| 📦 Frameworks        | Angular, Flask, Django, Node.js, Flutter               |
-| 📊 Data Tools        | Pandas, NumPy, Scikit-Learn, Streamlit                 |
-| ☁️ Cloud / DevOps    | AWS (EC2, S3, Lambda), Docker, GitHub Actions          |
-| 🎨 Game Dev Tools    | Unity, Pixelorama, LMMS, Krita, Blender, HLSL Shaders  |
+| 📦 Frameworks          | Angular, Flask, Django, Node.js, Flutter                        |
+| 📊 Data & ML           | Pandas, NumPy, Scikit-Learn, XGBoost, Streamlit                 |
+| ☁️ Cloud / DevOps      | AWS (EC2, S3, Lambda), Docker, GitHub Actions, Firebase                   |
+| 🎨 Creative Tools      | Unity, Pixelorama, LMMS, Krita, Blender               |
+
+
+<details>
+<summary><code>>_ click_to_expand : full_tech_stack</code></summary>
+
+<br>
+
+- **Languages** · C#, C, C++, Python, R, Java, JavaScript, TypeScript, Assembly
+- **Engines** · Unity, Godot
+- **Web** · Angular, Flask, Django, Node.js, Flutter
+- **Data/ML** · Pandas, NumPy, Scikit-Learn, XGBoost, Streamlit
+- **Cloud** · AWS (EC2, S3, Lambda), Docker, GitHub Actions
+- **Creative** · Pixelorama, LMMS, Krita, Blender, HLSL
+
+</details>
 
 ---
+## `>_ currently_building`
 
-## 🚀 Tech Stack Overview
-
-### 🎮 Game & Design Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-</p>
-
----
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" />
-</p>
-
----
-
-### 🌐 Web & Mobile Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-</p>
-
----
-
-### 🗄️ Databases & APIs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-</p>
-
----
-
-### ☁️ Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-</p>
-
----
-
-## 🕹️ Projects Showcase
-
-### 💀 INFECTED *(Roguelite Tower Defense)*
+### 🦠 INFECTED — _Roguelite Tower Defense_
+<div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
+<img src="./compressed/infected.gif" width="600">
+</div>
 > Your computer is dying. Build firewalls. Clean the infection. Prestige. Repeat.
 
 - 5 worlds: CPU, RAM, HDD, Network, Kernel
@@ -94,87 +89,112 @@ If it's hard and it needs to exist, I build it.
 
 ---
 
-### 📡 OPERATOR *(Radar Simulation)*
+### 📡 OPERATOR — _Radar Simulation_
+<div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
+<img src="./compressed/operator-radar.gif" width="600">
+</div>
 > You are a radar operator. Guide planes. Avoid enemies. Survive storms. Upgrade your station.
 
 - Custom HLSL radar sweep with decay function
-- Value system
 - Jamming zones, enemy fighters, civilian traffic
 - Days, upgrades, station progression
 
 ---
 
-### 🧠 CONSOLE *(Coding Puzzle Game)*
-> 8 programming languages. 2000+ problems. Build your rig. Solve the code.
-
-- Compilers/interpreters for: ASM, Basic, Python, LOA, C‑like, Java‑like, Y# (my language), Elixir‑like
-- Upgrade tree (registers, call stack, memory)
-- Visual execution model
-
----
-
-### 🏥 One More Day *(Narrative GMTK Top 7%) with [Orpita studio](https://www.linkedin.com/company/orpita-studio/)*
+### 🏥 One More Day — _Narrative · GMTK 2025 Top 7%_
+<div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
+<img src="./compressed/one-more-day.png" width="600">
+</div>
 > A doctor trapped in a hospital timeloop, trying to save loved ones.
 
-- Built in 3 days for GMTK 2025
-- 600th out of 10,000+ teams
-- Rebuilt solo in one evening
-- Now free on my portfolio
+- Built in 3 days for GMTK 2025 with a team of 18 creators.
+- **Led development**: designed the core loop, wrote the code, coordinated the team
+- **Rebuilt solo** after the jam — new dialogue, cutscenes, and map
+- **Credit** — fully credited to every contributor, and if you wanna see the amazing creators see the [Credits](./CREDITSFORONEMOREDAY.md)
 
 ---
 
-### 🌍 DrWisee *(Medical AI — Ministry of Health)*
-> AI diagnostic support for 25 chest diseases, calibrated for Egypt.
+### ⚡ Ten Second Hero — _GMTK 2026 · Top 11% Enjoyment_
 
-- 3 specialized models: XGBoost, BioClinical ModernBERT, BioViL‑T
-- Bayesian Egyptian prior adjustment (TB, Aspergillosis, Hydatid Disease)
-- My role: QA, Project Manager, Frontend Lead, Backend Lead
+<div style="isplay:flex; gap: 1em; justify-content:center; align-items:center;text-align:center;">
+<img src="./compressed/10-second-hero.gif" width="600">
+</div>
+> Dash. Kill. Add time. Defend the door. Survive the countdown.
+
+- Built **solo in 27 hours**, submitted 6 hours early
+- 3 levels, 9 enemies, custom halftone shader
+- Music system where kills build the soundtrack
+- **Top 11% for Enjoyment** — outscored larger teams on the metric that matters most
 
 ---
 
-### ⚡ ENERGY *(City Builder — My Childhood Dream Game)*
-> Balance energy production and pollution. Build the city. Survive the trade‑offs.
+<!--
+ Developer note: i will add them later in development
+ ### ⚡ ENERGY — _City Builder · My Childhood Dream Game_
+
+![ENERGY](./assets/energy.gif)
+
+> Balance energy production and pollution. Build the city. Survive the trade-offs.
 
 - Day/night cycle, weather, resource management
 - The game that started everything.
 
 ---
 
-### 🎮 EVI *(Hidden in My Portfolio — Unity WebGL)*
+### 🎮 EVI — _Hidden in My Portfolio · Unity WebGL_
+
+![EVI](./assets/evi.gif)
+
 > An astronaut named Evi asks: "Want to play a game?"
 
-- 2D space exploration (KSP‑lite)
+- 2D space exploration (KSP-lite)
 - Plant flags on 5 planets. Collect gems. Return to Earth.
 - Achievements save to the website
-- Find her on my protfolio's contact page
+- **Find her on my portfolio's contact page**
 
 ---
+### 🧠 CONSOLE — _Coding Puzzle Game_
 
-## 🧗 What I Love Building
+![CONSOLE demo](./assets/console-demo.gif)
 
-- Custom compilers & languages (Y# is mine)
-- Physics simulations (FTL spacetime, black hole geometry)
-- Systems that feel alive (radar, infection, AI adaptation)
-- Tools that teach (Console, training materials, cheat sheets)
-- Games that mean something (One More Day, Starfish in progress)
+> 8 programming languages. 2000+ problems. Build your rig. Solve the code.
 
----
-
-## 🛠 Currently Working On
-
-- 🎮 **INFECTED** — full release (Q3/Q4 2026)
-- 🚀 **Axiom Studio** — my own game development studio
-- 📊 **Deep Learning** — closing the gap (CNN, LSTM, production ML)
+- Compilers/interpreters for: ASM, Basic, Python, LOA, C-like, Java-like, Y# (my language), Elixir-like
+- Upgrade tree (registers, call stack, memory)
+- Visual execution model
 
 ---
+--- -->
 
-## 📬 Let’s Connect
+## `>_ what_i_build`
 
-- 🧠 [LinkedIn](https://www.linkedin.com/in/youssef-amr-2ba9962b5/)
-- ✉️ [Email](mailto:youssefamr.thesolodev@gmail.com)
-- 🎮 [Portfolio](https://youssefamr-thesolodev.web.app)
+```yaml
+interests:
+  - Custom compilers & programming languages
+  - Physics simulations (FTL spacetime, black hole geometry)
+  - Systems that feel alive (radar, infection, AI adaptation)
+  - Tools that teach (coding puzzles, training materials, cheat sheets)
+  - Games that mean something
+```
 
----
+## `>_ stats`
+<div style="display:flex; gap: 1em; justify-content:center; align-items:center;">
 
-> *"Success is not what you have or what you made. It's what you are when you have nothing."*  
-> — Youssef Amr
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Youssef-amr-TheSoloDev&show_icons=ture&theme=dark&hide_border=true&title_color=ff8800&icon_color=ff8800&hide_rank=true&custom_title=_>%20Youssef%20Amr%20|%20The%20Solo%20Dev%20Status)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Youssef-amr-TheSoloDev&layout=compact&theme=dark&hide_border=true&title_color=ff8800&custom_title=_>%20Most%20Used%20Langs&card_hight=200)
+</div>
+
+## `>_ connect`
+
+```bash
+$ ping youssef
+[→] Portfolio   : https://youssefamr-thesolodev.web.app
+[→] LinkedIn    : https://www.linkedin.com/in/youssef-amr-2ba9962b5/
+[→] Email       : youssefamr.thesolodev@gmail.com
+```
+
+```
+> exit
+*connection closed by user*
+```
